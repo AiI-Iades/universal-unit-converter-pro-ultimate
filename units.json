@@ -1,0 +1,6 @@
+{
+  "meter": {"factor": 1.0, "symbol": "m"},
+  "foot": {"factor": 0.3048, "symbol": "ft"},
+  "kilogram": {"factor": 1.0, "symbol": "kg"},
+  "pound": {"factor": 0.453592, "symbol": "lb"}
+}
