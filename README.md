@@ -1,1 +1,2 @@
-# universal-unit-converter-pro-ultimate
+# Universal Unit Converter Pro Ultimate
+A comprehensive CLI tool for converting between units across all categories (metric/imperial, scientific, environmental, etc.). Supports dynamic unit definitions and extensible conversion logic.
